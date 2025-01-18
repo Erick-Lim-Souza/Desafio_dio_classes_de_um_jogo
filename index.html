@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Heróis vs. Vilões</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Heróis vs. Vilões</h1>
+    <form id="formSelecao">
+      <label for="personagem">Escolha um personagem:</label>
+      <select id="personagem" required>
+        <option value="">Selecione...</option>
+      </select>
+      <label for="lado">Escolha o lado:</label>
+      <select id="lado" required>
+        <option value="">Selecione...</option>
+        <option value="herois">Heróis</option>
+        <option value="viloes">Vilões</option>
+      </select>
+      <button type="submit">Adicionar</button>
+    </form>
+
+    <div id="times">
+      <div id="herois">
+        <h3>Heróis</h3>
+        <ul id="listaHerois"></ul>
+      </div>
+      <div id="viloes">
+        <h3>Vilões</h3>
+        <ul id="listaViloes"></ul>
+      </div>
+    </div>
+    <button id="finalizar" style="display: none;">Finalizar Combate</button>
+    <div id="vencedor"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
