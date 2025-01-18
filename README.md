@@ -1,6 +1,7 @@
 # Desafio_dio_classes_de_um_jogo
 Escrevendo as Classes de Um Jogo
 
+📒 Descrição:
 
 Entendendo o Desafio
  
@@ -52,5 +53,18 @@ Ao final deve se exibir uma mensagem:
 
 ![image](https://github.com/user-attachments/assets/1a0ff91d-f406-4257-87d4-a8c96e3c717f)
 
+## Desenvolvimento
 
+Acabei escrevendo em HTML, JavaScript e CSS. 
+- Acabei aperfeiçoando um pouco o desafio já que tivemos essa liberdade.
+
+🤖 Tecnologias Utilizadas javascript e VsCode
+
+🧐 Processo de criação utilizei a ferramenta Vscode para desenvolvimento do desafio.
  
+### Redes
+
+- [Meu LinKedin](https://www.linkedin.com/in/erick-souza-70404686/ "Meu LinKedin")
+- [Meu perfil DIO.me](https://www.dio.me/users/erickdelimasouza "Meu perfil DIO.me")
+
+### Vamos nos conectar e trocar ideias! 🚀
